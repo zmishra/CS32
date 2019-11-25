@@ -1,0 +1,24 @@
+colony: USCAnt2
+
+start2:
+	faceRandomDirectio
+start:
+	if i_was_bit then goto rotate
+	moveForward
+	if i_was_blocked_from_moving then goto start2
+	if i_was_bit then goto rotate
+	goto start
+
+onFood:
+	emitPheromone
+	moveForward
+	goto hell
+bite:
+	bite
+	goto start
+hell:
+	moveForward
+	goto hell
+rotate:
+	rotateCounterClockwise
+	goto rotate
