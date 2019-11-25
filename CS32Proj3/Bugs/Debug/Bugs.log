@@ -1,0 +1,9 @@
+﻿  StudentWorld.cpp
+c:\users\zubin\downloads\bugs-skeleton-windows\bugs\bugs\studentworld.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\zubin\downloads\bugs-skeleton-windows\bugs\bugs\studentworld.cpp(352): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  GameWorld.cpp
+  GameController.cpp
+  Actor.cpp
+  Generating Code...
+  Bugs.vcxproj -> C:\Users\zubin\Downloads\Bugs-skeleton-windows\Bugs\Debug\Bugs.exe

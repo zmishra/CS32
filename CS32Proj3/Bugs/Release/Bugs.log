@@ -1,0 +1,12 @@
+﻿  Actor.cpp
+Actor.cpp(197): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Actor.cpp(198): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+StudentWorld.cpp(318): warning C4018: '<': signed/unsigned mismatch
+StudentWorld.cpp(339): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  84 of 1501 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bugs.vcxproj -> C:\Users\zubin\Downloads\Bugs-skeleton-windows\Bugs\Release\Bugs.exe
